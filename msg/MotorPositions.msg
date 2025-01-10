@@ -1,0 +1,2 @@
+float32 left_motor_position
+float32 right_motor_position
